@@ -57,5 +57,5 @@ The system uses a book dataset containing:
 <br>
 <br>
 <h2>🌟 Show Some Love</h2>
-<br>
+
 If you like this project, don’t forget to ⭐ the repo!

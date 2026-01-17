@@ -56,6 +56,23 @@ The system uses a book dataset containing:
 ✨ Genre / Tags
 <br>
 <br>
+<h2>▶️ How to Run the Project</h2>
+Follow these simple steps to run the project locally:
+<br>
+<h4>1️⃣ Clone the Repository</h4>
+git clone https://github.com/your-username/book-recommender-system.git
+<br>
+<h4>2️⃣ Navigate to Project Folder</h4>
+cd book-recommender-system
+<br>
+<h4>3️⃣ Install Dependencies</h4>
+pip install -r requirements.txt
+<br>
+<h4>4️⃣ Run the Application</h4>
+python app.py
+<br>
+<br>
+
 <h2>🌟 Show Some Love</h2>
 
 If you like this project, don’t forget to ⭐ the repo!

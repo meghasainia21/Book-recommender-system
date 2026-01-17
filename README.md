@@ -2,7 +2,8 @@
 A Hybrid Book Recommender System built using Python, Machine Learning, HTML, and similarity scores, combining collaborative and content-based filtering to deliver smarter and more personalized book suggestions.
 <br>
 <br>
-🚀 <b>Features</b>
+🚀 <h2><b>Features</b></h2>
+
 <br>
 ✨ Hybrid recommendation approach (Content + Collaborative)
 <br>
@@ -17,7 +18,7 @@ A Hybrid Book Recommender System built using Python, Machine Learning, HTML, and
 ✨ Personalized recommendations based on user input
 <br>
 <br>
-🧠 <b>Tech Stack<b>
+🧠 <h2><b>Tech Stack<b></h2>
 <br>
 🐍 Python – Core backend logic
 <br>

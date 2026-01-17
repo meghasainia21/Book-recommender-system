@@ -1,2 +1,2 @@
 # BookBinge
-Create a hybrid book recommender system 
+<b>Hybrid Book Recommendation System</b>
